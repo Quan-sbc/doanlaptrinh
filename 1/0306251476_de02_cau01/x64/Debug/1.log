@@ -1,0 +1,3 @@
+﻿  1.cpp
+D:\Kiemtra_THNMLT\1\1\1.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  1.vcxproj -> D:\Kiemtra_THNMLT\1\x64\Debug\1.exe
